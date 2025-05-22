@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 2832,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Will Knight",
+            "title": "Google DeepMind\u2019s AI Agent Dreams Up Algorithms Beyond Human Expertise",
+            "description": "A new system that combines Gemini\u2019s coding abilities with an evolutionary approach\u00a0 improves datacenter scheduling, chip design, and fine-tune large language models.",
+            "url": "https://www.wired.com/story/google-deepminds-ai-agent-dreams-up-algorithms-beyond-human-expertise/",
+            "urlToImage": "https://media.wired.com/photos/6823a54e83546d0fe3307acb/191:100/w_1280,c_limit/AI-Lab-Google-DeepMind-Computin-Agent-Business.jpg",
+            "publishedAt": "2025-05-14T15:00:38Z",
+            "content": "A key question in artificial intelligence is how often models go beyond just regurgitating and remixing what they have learned and produce truly novel ideas or insights.\r\nA new project from Google De\u2026 [+3012 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Marina Galperina",
+            "title": "Reddit bans researchers who used AI bots to manipulate commenters",
+            "description": "Commenters on the popular subreddit r/changemymind found out last weekend that they've been majorly duped for months. University of Zurich researchers set out to \"investigate the persuasiveness of Large Language Models (LLMs) in natural online environments\" b\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/657978/reddit-ai-experiment-banned",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK115_Reddit_03.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-29T16:37:16Z",
+            "content": "Reddits lawyer called the University of Zurich researchers project an improper and highly unethical experiment.\r\nReddits lawyer called the University of Zurich researchers project an improper and hig\u2026 [+3126 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ben Bergman",
+            "title": "Nvidia-backed Israeli AI startup AI21 is raising a $300 million funding round",
+            "description": "AI21, an Israeli startup building its own large language models (LLMs), is raising a $300 million funding round, according to a source.",
+            "url": "https://www.businessinsider.com/llm-startup-ai21-is-raising-a-300-million-funding-round-2025-5",
+            "urlToImage": "https://i.insider.com/681d09fac6ad288d14806e1d?width=1200&format=jpeg",
+            "publishedAt": "2025-05-09T09:00:02Z",
+            "content": "AI21's founders from left to right: Ori Goshen, Amnon Shashua and Yoav Shoham.Roei Shor\r\n<ul><li>AI21 is raising a $300 million Series D funding round to build its own LLMs.</li><li>AI21 aims to redu\u2026 [+1904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Michael Nu\u00f1ez",
+            "title": "Alibaba\u2019s \u2018ZeroSearch\u2019 lets AI learn to google itself \u2014 slashing training costs by 88 percent",
+            "description": "Alibaba\u2019s ZeroSearch trains large language models to beat Google Search and slash API costs by 88%, redefining how AI learns to retrieve information.",
+            "url": "https://venturebeat.com/ai/alibabas-zerosearch-lets-ai-learn-to-google-itself-slashing-training-costs-by-88-percent/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_web_search_b324c6ac-bcd1-4106-8ed1-dd4969cc9e5b.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-08T19:15:29Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nResearchers at Alibaba Group have developed a novel approach that could\u2026 [+5346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seangoedecke.com"
+            },
+            "author": null,
+            "title": "Diffusion Models Explained Simply",
+            "description": "Transformer-based large language models are relatively easy to understand. You break language down into a finite set of \u201ctokens\u201d (words or sub-word components\u2026",
+            "url": "https://www.seangoedecke.com/diffusion-models-explained/",
+            "urlToImage": null,
+            "publishedAt": "2025-05-19T13:06:55Z",
+            "content": "Transformer-based large language models are relatively easy to understand. You break language down into a finite set of tokens (words or sub-word components), then train a neural network on millions \u2026 [+9955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "Do Large Language Models know who did what to whom?",
+            "description": "Large Language Models (LLMs) are commonly criticized for not understanding language. However, many critiques focus on cognitive abilities that, in humans, are distinct from language processing. Here, we instead study a kind of understanding tightly linked to \u2026",
+            "url": "https://arxiv.org/abs/2504.16884",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-27T18:02:22Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "iOS 19 Will Let Developers Use Apple's AI Models in Their Apps",
+            "description": "Apple will make its artificial intelligence models available to developers to use in their apps, reports Bloomberg. The company plans to introduce a new software development kit (SDK) in iOS 19 that will make it easier for app creators to add AI features.\n\n\n\n\u2026",
+            "url": "https://www.macrumors.com/2025/05/20/ios-19-apple-ai-models-developers/",
+            "urlToImage": "https://images.macrumors.com/t/9QYrKGN7DCjAIIQvkbgkjuswS_0=/2500x/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
+            "publishedAt": "2025-05-20T16:18:13Z",
+            "content": "Apple will make its artificial intelligence models available to developers to use in their apps, reports Bloomberg. The company plans to introduce a new software development kit (SDK) in iOS 19 that \u2026 [+1629 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Google is putting AI Mode right in Search",
+            "description": "Google is preparing to publicly unleash its AI Mode search engine tool for the first time. The company announced today that \u201ca small percentage\u201d of people in the US will start seeing an AI Mode tab in Google Search \u201cin the coming weeks,\u201d allowing users to tes\u2026",
+            "url": "https://www.theverge.com/news/659448/google-ai-mode-search-public-test-us",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-01T13:25:21Z",
+            "content": "An AI Mode tab will soon start appearing in Search for a handful of US users.\r\nAn AI Mode tab will soon start appearing in Search for a handful of US users.\r\nGoogle is preparing to publicly unleash i\u2026 [+1980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "AI Is Deciphering Animal Speech. Should We Try to Talk Back?",
+            "description": "As scientists use machine learning to decode the sounds of whales, dogs, and dolphins, opinions vary on how best to deploy the technology.",
+            "url": "https://gizmodo.com/ai-is-deciphering-animal-speech-should-we-try-to-talk-back-2000598783",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/AI-Talk-Decipher-Animal-Speech.jpg",
+            "publishedAt": "2025-05-17T10:00:59Z",
+            "content": "Chirps, trills, growls, howls, squawks. Animals converse in all kinds of ways, yet humankind has only scratched the surface of how they communicate with each other and the rest of the living world. O\u2026 [+10473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Corinne Reichert",
+            "title": "Meta Reportedly Delays 'Behemoth' AI Model: What This Could Mean for Its AI Tools",
+            "description": "This fresh delay adds to concerns that Meta could fall behind other major AI providers like OpenAI and Google.",
+            "url": "https://www.cnet.com/tech/services-and-software/meta-reportedly-delays-behemoth-ai-model-what-this-could-mean-for-its-ai-tools/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/cca4e6f9a74422045535f6e94f1989ad70ca487b/hub/2024/04/18/a582d2b1-71d5-4a52-ac37-2a78a1bc5a55/meta-ai.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-05-15T21:12:00Z",
+            "content": "Meta reportedly has pushed back the release of its Behemoth large language model for its artificial intelligence tools, delaying it until the fall. Behemoth was originally planned to release in April\u2026 [+1932 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Chris Baraniuk",
+            "title": "The Climate Crisis Threatens Supply Chains. Manufacturers Hope AI Can Help",
+            "description": "The Covid-19 pandemic showed just how vulnerable global supply chains are. Climate shocks could pose an even greater risk.",
+            "url": "https://www.wired.com/story/manufacturers-hope-ai-will-save-supply-chains-from-climate-crisis/",
+            "urlToImage": "https://media.wired.com/photos/67bde52c1171429c58ee8b3f/191:100/w_1280,c_limit/022425_Climate-Crisis-Supply-Chain.jpg",
+            "publishedAt": "2025-05-02T10:00:00Z",
+            "content": "Abhi Ghadge, associate professor of supply chain management at Cranfield University in the UK, says there has been a general kind of negligence in terms of climate resilience, though that is beginnin\u2026 [+3005 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lakshmi Varanasi",
+            "title": "Meta's chief AI scientist says scaling AI won't make it smarter",
+            "description": "Bigger is not better, according to Yann LeCun, Meta's chief AI scientist. Smarter AI requires different training methods, he says.",
+            "url": "https://www.businessinsider.com/meta-yann-lecun-scaling-ai-wont-make-it-smarter-2025-4",
+            "urlToImage": "https://i.insider.com/680eb7323fe8d3928364313a?width=1200&format=jpeg",
+            "publishedAt": "2025-04-27T23:55:21Z",
+            "content": "Meta chief AI scientist Yann LeCun doesn't think scaling AI is enough to make it smarter.Meta Platforms\r\n<ul><li>Yann LeCun, chief AI scientist at Meta, pushed back against \"scaling laws.\"</li><li>Th\u2026 [+3205 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew S. Smith",
+            "title": "Cybersecurity execs face a new battlefront: 'It takes a good-guy AI to fight a bad-guy AI'",
+            "description": "The landscape of secure AI is evolving. Cybersecurity experts are using AI-powered safeguards to fight AI threats, like data exfiltration.",
+            "url": "https://www.businessinsider.com/artificial-intelligence-cybersecurity-large-language-model-threats-solutions-2025-5",
+            "urlToImage": "https://i.insider.com/680aa9e7a466d2b74ab41e6e?width=1200&format=jpeg",
+            "publishedAt": "2025-05-01T15:05:26Z",
+            "content": "Getty Images\r\n<ul><li>Generative-AI models often face security threats such as prompt injections and data exfiltration.</li><li>Cybersecurity firms are fighting fire with fire \u2014 using AI to secure LL\u2026 [+8058 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "Jonathan L. Zittrain",
+            "title": "What AI Thinks It Knows About You",
+            "description": "What happens when people can see what assumptions a large language model is making about them?",
+            "url": "https://www.theatlantic.com/technology/archive/2025/05/inside-the-ai-black-box/682853/",
+            "urlToImage": "https://cdn.theatlantic.com/thumbor/ONjDetEwOKWDb8vNjUbqSvmwcT8=/0x23:2000x1065/1200x625/media/img/mt/2025/05/AiOurselvesHP/original.png",
+            "publishedAt": "2025-05-21T12:00:00Z",
+            "content": "Large language models such as GPT, Llama, Claude, and DeepSeek can be so fluent that people feel it as a \u201cyou,\u201d and it answers encouragingly as an \u201cI.\u201d The models can write poetry in nearly any given\u2026 [+17714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deepmind.google"
+            },
+            "author": null,
+            "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+            "description": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators",
+            "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+            "urlToImage": "https://lh3.googleusercontent.com/Gw688MNwkQVBeUALSFtQz46Oh4NFoZAe10mEpvtmZhKuWhlQsi5uh2KFHKbxH8NhBnOGUNza6O6-0HElml2zEN06vI_9oAsjAxFVzxjDL5DOw7HsAw=w1200-h630-n-nu",
+            "publishedAt": "2025-05-14T15:10:15Z",
+            "content": "Acknowledgements\r\nAlphaEvolve was developed by Matej Balog, Alexander Novikov, Ng\u00e2n V, Marvin Eisenberger, Emilien Dupont, Po-Sen Huang, Adam Zsolt Wagner, Sergey Shirobokov, Borislav Kozlovskii, Fra\u2026 [+1699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Emilia David",
+            "title": "More accurate coding: Researchers adapt Sequential Monte Carlo for AI-generated code",
+            "description": "Researchers from MIT, Yale, McGill University and others found that adapting the Sequential Monte Carlo algorithm can make AI-generated code better.",
+            "url": "https://venturebeat.com/ai/more-accurate-coding-researchers-adapt-sequential-monte-carlo-for-ai-generated-code/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_cute_robot_coding_on_a_computer_the_s_19fc3865-26b4-44b4-a547-71d72317afb7.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-04-23T00:09:49Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nCoding with the help of AI models continues to gain popularity, but man\u2026 [+4715 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Macy Meyer",
+            "title": "ChatGPT's Image Generator Is Now in Microsoft Copilot. Here's What You Can Do With It",
+            "description": "Microsoft Copilot now supports photorealistic image generation and allows you to customize and edit the visuals it creates.",
+            "url": "https://www.cnet.com/tech/services-and-software/chatgpts-image-generator-is-now-in-microsoft-copilot-heres-what-you-can-do-with-it/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/9679af66ba4ac6bd0688c15896da3d397a22bda7/hub/2025/05/19/5b2eded6-2f07-43ae-a46d-5e0981307244/screenshot-2025-05-19-at-3-26-10pm.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-05-19T20:01:08Z",
+            "content": "Microsoft announced Monday that it has introduced significant enhancements to its Copilot AI assistant, integrating OpenAI's GPT-4o model to support advanced image generation capabilities. This updat\u2026 [+1871 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "AmanPriyanshu",
+            "title": "Awesome List on AI for Security",
+            "description": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Moda...",
+            "url": "https://github.com/AmanPriyanshu/Awesome-AI-For-Security",
+            "urlToImage": "https://opengraph.githubassets.com/111142a78b08c49253d07343558fc10b63c39e0f455b690bf9baa3e3fb67fd95/AmanPriyanshu/Awesome-AI-For-Security",
+            "publishedAt": "2025-04-30T09:29:42Z",
+            "content": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal \u2026 [+5331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medium"
+            },
+            "author": "Johnny Dunn",
+            "title": "How to Vibe Code a Logomaker in 10 Days",
+            "description": "Down the latest rabbit hole of large language models and GPTs, we see that the web endures the latest onslaught of trending AI content: Apps. I see UIs and UXes created within days (or hours) by\u2026",
+            "url": "https://medium.com/@johnnyfived/how-to-vibe-code-a-logomaker-in-10-days-llms-can-they-build-it-b744209e350b",
+            "urlToImage": "https://miro.medium.com/v2/resize:fit:1024/0*LoJMTi5yLhhtuMyf.png",
+            "publishedAt": "2025-04-24T14:36:50Z",
+            "content": "The machine rages back\r\nHere is the answer ChatGPT (4o) gave me when I asked it to give me a full refactor of a 2000 line script.\r\nThe 2000 LOC script was refactored into 200 lines.\r\nGPT-4 refactored\u2026 [+4932 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lee Chong Ming",
+            "title": "Marc Andreessen says the US needs to lead open-sourced AI: 'Imagine if the entire world \u2014 including the US \u2014 runs on Chinese software'",
+            "description": "The venture capitalist's comments come amid an intensifying US-China tech rivalry and a growing debate over open- and closed-source AI.",
+            "url": "https://www.businessinsider.com/marc-andreessen-us-china-open-source-ai-a16z-2025-5",
+            "urlToImage": "https://i.insider.com/682aabebc6ad288d1481436d?width=1200&format=jpeg",
+            "publishedAt": "2025-05-19T07:58:29Z",
+            "content": "Venture capitalist Marc Andreessen said AI is going to \"intermediate\" key institutions like the courts, schools, and medical systems.Paul Chinn/The San Francisco Chronicle via Getty Images\r\n<ul><li>V\u2026 [+4474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Cheryl Eddy",
+            "title": "Murderbot\u2018s Creators on Letting AI Be the Good Guy for Once",
+            "description": "Sci-fi is full of evil robots and sinister AI\u2014but even a dystopian future can have room for optimism.",
+            "url": "https://gizmodo.com/murderbots-creators-on-letting-ai-be-the-good-guy-for-once-2000597761",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/Murderbot_AI_interview.jpg",
+            "publishedAt": "2025-05-06T17:35:01Z",
+            "content": "Upcoming Apple TV+ series Murderbot takes place in a future where survey missions on distant planets are required to bring a Security Unita hulking robot created using mechanical and organic partsas \u2026 [+3051 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Ben Dickson",
+            "title": "30 seconds vs. 3: The d1 reasoning framework that\u2019s slashing AI response times",
+            "description": "d1 framework changes boosts diffusion LLMs with novel reinforcement learning, unlocking efficient, problem-solving AI possibilities.",
+            "url": "https://venturebeat.com/ai/30-seconds-vs-3-the-d1-reasoning-framework-thats-slashing-ai-response-times/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/Robot-scrabble.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-04-28T19:31:21Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nResearchers from UCLA and Meta AI have introduced d1, a novel framework\u2026 [+7787 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emma Cosgrove,Pranav Dixit",
+            "title": "Meta's Llama has reached a turning point with developers as delays and disappointment mount",
+            "description": "Developers told Business Insider Llama is slipping from the cutting edge, but it still has a role.",
+            "url": "https://www.businessinsider.com/meta-ai-llama-was-big-deal-developers-see-untapped-potential-2025-5",
+            "urlToImage": "https://i.insider.com/6825111d3fe8d3928365e33e?width=1200&format=jpeg",
+            "publishedAt": "2025-05-16T09:00:02Z",
+            "content": "Almost a year passed between the release of Meta's Llama 3 and Llama 4. A lot can happen in a year.AP Photo/Jeff Chiu\r\n<ul><li>Meta's Llama 4 models had a lukewarm start and haven't seen as much adop\u2026 [+10570 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Riddhi Kanetkar",
+            "title": "Monzo's former CEO shares 3 tips for getting the most out of vibe coding",
+            "description": "Former Monzo CEO Tom Blomfield offers strategic advice on vibe coding, a burgeoning trend facilitating AI-driven code writing.",
+            "url": "https://www.businessinsider.com/monzo-tom-blomfield-vibe-coding-tips-ai-tools-2025-4",
+            "urlToImage": "https://i.insider.com/680f73f53fe8d39283643595?width=1200&format=jpeg",
+            "publishedAt": "2025-04-28T14:49:29Z",
+            "content": "Tom Blomfield, the former CEO of Monzo. Monzo\r\n<ul><li>Vibe coding is enabling nontechnical users to write code with AI.</li><li>Former Monzo CEO Tom Blomfield shared tips on how to get the most out \u2026 [+2685 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Marcus Mendes",
+            "title": "Apple to let developers build with its AI models starting at WWDC 2025",
+            "description": "According to a new report from Bloomberg\u2019s Mark Gurman, Apple will announce at WWDC on June 9 that it will open its Apple Intelligence AI models to third-party developers.\n\n\n\nA new software development kit and related frameworks will allow apps to integrate a\u2026",
+            "url": "https://9to5mac.com/2025/05/20/apple-to-let-developers-build-with-its-own-ai-models/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/ios19-apple-intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-05-20T16:30:44Z",
+            "content": "According to a new report from Bloombergs Mark Gurman, Apple will announce at WWDC on June 9 that it will open its Apple Intelligence AI models to third-party developers.\r\nA new software development \u2026 [+2547 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Carl Franzen",
+            "title": "New fully open source vision encoder OpenVision arrives to improve on OpenAI\u2019s Clip, Google\u2019s SigLIP",
+            "description": "A vision encoder is a necessary component for allowing many leading LLMs to be able to work with images uploaded by users.",
+            "url": "https://venturebeat.com/ai/new-fully-open-source-vision-encoder-openvision-arrives-to-improve-on-openais-clip-googles-siglip/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_stark_crisp_neat_pop_art_yellow_dominant_image_of_a_hum_0c2088ff-9ca4-4b34-8c66-7c8fdb496e14.png?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-12T18:19:20Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nThe University of California, Santa Cruz has announced the release of O\u2026 [+8416 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lee Chong Ming",
+            "title": "DeepSeek is hiring for an 'urgent' role in product management and design",
+            "description": "The Chinese startup that rattled the AI industry earlier this year posted a role in product management and design.",
+            "url": "https://www.businessinsider.com/deepseek-hiring-urgent-job-product-management-design-china-ai-model-2025-4",
+            "urlToImage": "https://i.insider.com/680f1d75a466d2b74ab44abb?width=1200&format=jpeg",
+            "publishedAt": "2025-04-28T07:39:39Z",
+            "content": "DeepSeek said it wants people to help create the \"next generation of intelligent product experience\" centered on large language models.Illustration by Klaudia Radecka/NurPhoto via Getty Images\r\n<ul><\u2026 [+4652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "WhatsApp defends 'optional' AI tool that cannot be turned off",
+            "description": "While Meta says the AI chatbot is a \"good thing\", some users have shared their frustrations.",
+            "url": "https://www.bbc.com/news/articles/cd7vzw78gz9o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/821f/live/010a6e10-1f79-11f0-bdfc-33d5f1a51c32.jpg",
+            "publishedAt": "2025-04-23T14:26:00Z",
+            "content": "Graham Fraser\r\nWhatsApp says its new AI feature embedded in the messaging service is \"entirely optional\" - despite the fact it cannot be removed from the app.\r\nThe Meta AI logo is an ever-present blu\u2026 [+4690 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kwan Wei Kevin Tan",
+            "title": "Tencent says it has enough high-end chips to train AI for 'generations' even if the US cuts it off",
+            "description": "Tencent's president said the company can rely on a \"pretty strong stockpile of chips that we acquired previously.\"",
+            "url": "https://www.businessinsider.com/tencent-enough-ai-chips-even-if-us-cuts-it-off-2025-5",
+            "urlToImage": "https://i.insider.com/68254d6a3fe8d3928365e59f?width=1200&format=jpeg",
+            "publishedAt": "2025-05-15T04:30:03Z",
+            "content": "Tencent's president Martin Lau said the company can rely on a \"pretty strong stockpile of chips that we acquired previously.\"Ying Tang/NurPhoto via Getty Images\r\n<ul><li>Tencent's president Martin La\u2026 [+2653 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Perkel",
+            "title": "Coding isn't dead, but how it's taught needs to change, says Google DeepMind research scientist",
+            "description": "Google AI researcher Stefania Druga told BI that a CS degree no longer guarantees a cushy tech job \u2014 and that's the \"wrong kind of goal\" for students.",
+            "url": "https://www.businessinsider.com/google-deepmind-research-scientist-coding-not-dead-ai-education-2025-5",
+            "urlToImage": "https://i.insider.com/6807e6efc6ad288d147ed232?width=1200&format=jpeg",
+            "publishedAt": "2025-05-08T08:36:01Z",
+            "content": "Stefania Druga, a research scientist at Google DeepMind (not pictured), said children should develop AI literacy as early as possible.Reuters / Benoit Tessier\r\n<ul><li>Stefania Druga is a research sc\u2026 [+7018 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Edmonds",
+            "title": "The US Copyright Office has thoughts on how AI is trained. Big Tech may not like it.",
+            "description": "AI companies like OpenAI and Meta use data made by others to train their AI models. The US Copyright Office says, in some cases, that may be illegal.",
+            "url": "https://www.businessinsider.com/ai-training-copyright-laws-big-tech-fair-use-openai-meta-2025-5",
+            "urlToImage": "https://i.insider.com/68212927a466d2b74ab5a0dc?width=1200&format=jpeg",
+            "publishedAt": "2025-05-11T23:59:36Z",
+            "content": "The US Copyright Office published a new report on generative artificial intelligence.Jonathan Raa/NurPhoto\r\n<ul><li>Big Tech companies depend on content made by others to train their AI models.</li><\u2026 [+5374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Flowingdata.com"
+            },
+            "author": "Nathan Yau",
+            "title": "Time saved with AI creates more work elsewhere",
+            "description": "Benj Edwards reporting for Ars Techinca: In \u201cLarge Language Models, Small Labor Market Effects,\u201d economists Anders Humlum and Emilie Vestergaard focused specifically on the impact of AI\u2026",
+            "url": "https://flowingdata.com/2025/05/09/time-saved-with-ai-creates-more-work-elsewhere/",
+            "urlToImage": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512.png",
+            "publishedAt": "2025-05-09T07:59:53Z",
+            "content": "In \u201cLarge Language Models, Small Labor Market Effects,\u201d economists Anders Humlum and Emilie Vestergaard focused specifically on the impact of AI chatbots across 11 occupations often considered vulner\u2026 [+637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "Motorola\u2019s New Razr Flip Phones Cram in AI from Nearly Everyone Except OpenAI",
+            "description": "Moto AI on the Razr, Razr+, and Razr Ultra is basically like the Avengers.",
+            "url": "https://gizmodo.com/motorolas-new-razr-flip-phones-cram-in-ai-from-nearly-everyone-except-openai-2000593499",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/motorola-razr-2025-20.jpg",
+            "publishedAt": "2025-04-24T16:00:55Z",
+            "content": "Two things were glaringly clear to me after sitting through a 2.5-hour event yesterday where Motorola pre-briefed press on its new trio of Razr Android phones. The company really believes in the flip\u2026 [+4976 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Richard Speed",
+            "title": "Research reimagines LLMs as tireless tools of torture",
+            "description": "No need for thumbscrews when your chatbot never lets up\nLarge language models (LLMs) are not just about assistance and hallucinations. The technology has a darker side.\u2026",
+            "url": "https://www.theregister.com/2025/05/21/llm_torture_tools/",
+            "urlToImage": "https://regmedia.co.uk/2021/07/22/shutterstock_interrogation.jpg",
+            "publishedAt": "2025-05-21T11:28:13Z",
+            "content": "Large language models (LLMs) are not just about assistance and hallucinations. The technology has a darker side.\r\nIn research titled \"LLM-Enabled Coercive Interrogation,\" developer Morgan Lee explore\u2026 [+3480 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "LLMs for Engineering: Teaching Models to Design High Powered Rockets",
+            "description": "Large Language Models (LLMs) have transformed software engineering, but their application to physical engineering domains remains underexplored. This paper evaluates LLMs' capabilities in high-powered rocketry design through RocketBench, a benchmark connectin\u2026",
+            "url": "https://arxiv.org/abs/2504.19394",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-30T22:03:03Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Carl Franzen",
+            "title": "Sakana introduces new AI architecture, \u2018Continuous Thought Machines\u2019 to make models reason with less guidance \u2014 like human brains",
+            "description": "While the CTM shows strong promise, it is still primarily a research architecture and is not yet production-ready out of the box.",
+            "url": "https://venturebeat.com/ai/sakana-introduces-new-ai-architecture-continuous-thought-machines-to-make-models-reason-with-less-guidance-like-human-brains/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_stark_crisp_neat_pop_art_colorful_flat_illustration_pol_570ae7e2-ddaf-4775-b7da-c0dd0257c8d0.png?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-12T23:08:55Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nTokyo-based artificial intelligence startup Sakana, co-founded by forme\u2026 [+10721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "Should We Respect LLMs? A Study on Influence of Prompt Politeness on Performance",
+            "description": "We investigate the impact of politeness levels in prompts on the performance of large language models (LLMs). Polite language in human communications often garners more compliance and effectiveness, while rudeness can cause aversion, impacting response qualit\u2026",
+            "url": "https://arxiv.org/abs/2402.14531",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-22T12:35:12Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Apple Working to Add AI Search Options to Safari",
+            "description": "Apple is looking at reworking Safari to directly support AI-powered search services, Bloomberg's Mark Gurman reports.\n\n\n\n\n\nApple's senior vice president of services Eddy Cue today disclosed that Apple is \"actively looking at\" reshaping Safari around AI search\u2026",
+            "url": "https://www.macrumors.com/2025/05/07/apple-working-on-ai-search-in-safari/",
+            "urlToImage": "https://images.macrumors.com/t/9QYrKGN7DCjAIIQvkbgkjuswS_0=/2500x/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
+            "publishedAt": "2025-05-07T15:41:57Z",
+            "content": "Apple is looking at reworking Safari to directly support AI-powered search services, Bloomberg's Mark Gurmanreports.\r\nApple's senior vice president of services Eddy Cue today disclosed that Apple is \u2026 [+1894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Sean Michael Kerner",
+            "title": "Software engineering-native AI models have arrived: What Windsurf\u2019s SWE-1 means for technical decision-makers",
+            "description": "Windsurf's new SWE-1 AI models tackle the complete software engineering workflow, potentially reducing development cycles and technical debt.",
+            "url": "https://venturebeat.com/ai/software-engineering-native-ai-models-have-arrived-what-windsurfs-swe-1-means-for-technical-decision-makers/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/enterprise_ai_develeper-smk.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-16T00:30:35Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nTo date, vibe coding platforms have largely relied on existing large la\u2026 [+6125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Noah Schwartz, Postman API Network",
+            "title": "MCP and the innovation paradox: Why open standards will save AI from itself",
+            "description": "Much like HTTP and REST standardized how web applications connect to services, MCP standardizes how AI models connect to tools.",
+            "url": "https://venturebeat.com/ai/mcp-and-the-innovation-paradox-why-open-standards-will-save-ai-from-itself/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/upscalemedia-transformed.jpeg?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-10T19:05:00Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nBigger models arent driving the next wave of AI innovation. The real di\u2026 [+6233 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Effie Webb",
+            "title": "'Godfather of AI' Geoffrey Hinton says he trusts his chatbot more than he should",
+            "description": "AI pioneer Geoffrey Hinton says he tends to believe GPT-4, even though he said it got a simple riddle wrong.",
+            "url": "https://www.businessinsider.com/geoffrey-hinton-godfather-ai-gpt4-openai-2025",
+            "urlToImage": "https://i.insider.com/682b06f0c6ad288d1481464a?width=1200&format=jpeg",
+            "publishedAt": "2025-05-19T13:10:01Z",
+            "content": "\"I should probably be suspicious,\" Geoffrey Hinton said of the answers AI provides.Mark Blinch/REUTERS\r\n<ul><li>The \"Godfather of AI,\" Geoffrey Hinton, has said he trusts chatbots like OpenAI's GPT-4\u2026 [+2448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Emilia David",
+            "title": "Notion bets big on integrated LLMs, adds GPT-4.1 and Claude 3.7 to platform",
+            "description": "Notion used OpenAI's GPT-4.1 and Anthropic's Claude 3.7 for its new AI features for enterprises, moving away from reasoning models.",
+            "url": "https://venturebeat.com/ai/notion-bets-big-on-integrated-llms-adds-gpt-4-1-and-claude-3-7-to-platform/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/03/crm-people.png?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-13T22:18:40Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nProductivity platform Notion is betting on large language models (LLMs)\u2026 [+4996 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emma Cosgrove",
+            "title": "A guide to the Nvidia products driving the AI boom and beyond \u2014 from data center GPUs to automotive and consumer tech",
+            "description": "Nvidia products have been instrumental to the AI boom. Read about the company's data center GPUs, CUDA software, and ventures in automotive tech.",
+            "url": "https://www.businessinsider.com/nvidia-products",
+            "urlToImage": "https://i.insider.com/6823aca868a29290080138bb?width=1200&format=jpeg",
+            "publishedAt": "2025-05-17T10:11:01Z",
+            "content": "Nvidia products, such as GPUs and software, are driving the AI boom.Brittany Hosea-Small/REUTERS\r\n<ul><li>Nvidia products, such as data center GPUs, are crucial for AI, making it the leader in the in\u2026 [+5722 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Ben Dickson",
+            "title": "SWiRL: The business case for AI that thinks like your best problem-solvers",
+            "description": "Training LLMs on trajectories of reasoning and tool use makes them superior at multi-step reasoning tasks.",
+            "url": "https://venturebeat.com/ai/swirl-the-business-case-for-ai-that-thinks-like-your-best-problem-solvers/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/robot-solving-problem.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-04-22T23:53:59Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nResearchers from Stanford University and Google DeepMind have unveiled \u2026 [+8904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.io"
+            },
+            "author": null,
+            "title": "AI TIMLINE \u2013 All prominent events in the field",
+            "description": "A comprehensive timeline of Artificial Intelligence milestones from 2022 to present.",
+            "url": "https://nhlocal.github.io/AiTimeline/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-30T09:10:56Z",
+            "content": "2022\r\nMidjourney v1\r\nOpenAI releases text-davinci-002 and code-davinci-002 with an API approach.\r\nMidjourney v2\r\nDALL-E 2 is announced for gradual release.\r\nMidjourney v3 is launched.\r\nStable Diffusi\u2026 [+18444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Ben Dickson",
+            "title": "Fine-tuning vs. in-context learning: New research guides better LLM customization for real-world tasks",
+            "description": "By combining fine-tuning and in-context learning, you get LLMs that can learn tasks that would be too difficult or expensive for either method",
+            "url": "https://venturebeat.com/ai/fine-tuning-vs-in-context-learning-new-research-guides-better-llm-customization-for-real-world-tasks/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/09/cfr0z3n_a_robot_in_a_collared_polo_sits_at_a_desk_dutifully_sta_1a510b62-1550-4ca9-839a-dfd64d6c304c-1.png?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-10T00:23:09Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nTwo popular approaches for customizing large language models (LLMs) for\u2026 [+6568 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Pranav Dixit",
+            "title": "I attended LlamaCon, Meta's first event for AI developers. It was 'kinda mid.'",
+            "description": "Meta's LlamaCon 2025 showcased AI ambitions and gained Wall Street's praise, but developers found it lacking compared to competitors.",
+            "url": "https://www.businessinsider.com/llamacon-2025-meta-strived-reassert-ai-leadership-against-rivals-2025-5",
+            "urlToImage": "https://i.insider.com/6813dda23fe8d3928364b22d?width=1200&format=jpeg",
+            "publishedAt": "2025-05-02T09:00:02Z",
+            "content": "AP Photo/Jeff Chiu\r\n<ul><li>I went to Meta's first AI developer event and left underwhelmed.</li><li>Developers, spectators, and even Mark Zuckerberg seemed to agree that Llama is second to competito\u2026 [+7919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nuejs.org"
+            },
+            "author": null,
+            "title": "Hyper \u2013 Outperform React on every metric",
+            "description": "Today I'm releasing Hyper: a simple markup language for building user interfaces. It enables developers (and AI models) to generate complex UIs with amazingly clean syntax. It aims to make frontend development enjoyable.",
+            "url": "https://nuejs.org/blog/introducing-hyper/",
+            "urlToImage": "https://nuejs.org/blog/introducing-hyper/img/hyper-og.png",
+            "publishedAt": "2025-05-06T07:14:00Z",
+            "content": "May 6, 2025\r\nToday I'm releasing Hyper: a simple markup language for building user interfaces. It enables developers (and AI models) to generate complex UIs with amazingly clean syntax. It aims to ma\u2026 [+8775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "XiaomiMiMo",
+            "title": "Xiaomi unveils open-source AI reasoning model MiMo",
+            "description": "MiMo: Unlocking the Reasoning Potential of Language Model \u2013 From Pretraining to Posttraining - XiaomiMiMo/MiMo",
+            "url": "https://github.com/XiaomiMiMo/MiMo",
+            "urlToImage": "https://opengraph.githubassets.com/31164ec5b02ed8d469da666d0890f54f327e330392400614a10593fe43b17aa7/XiaomiMiMo/MiMo",
+            "publishedAt": "2025-04-30T08:48:20Z",
+            "content": "This code repository is licensed under the Apache2.0 License.\r\nCurrently, most successful RL works, including open-source research, rely on relatively large base models, e.g., 32B models, particularl\u2026 [+8191 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "LLMs for Materials and Chemistry: 34 Real-World Examples",
+            "description": "Large Language Models (LLMs) are reshaping many aspects of materials science and chemistry research, enabling advances in molecular property prediction, materials design, scientific automation, knowledge extraction, and more. Recent developments demonstrate t\u2026",
+            "url": "https://arxiv.org/abs/2505.03049",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-05-07T21:37:05Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Cloudflare CEO: AI Is Killing the Business Model of the Web",
+            "description": "In a recent interview with the Council on Foreign Relations, Cloudflare CEO Matthew Prince warned that AI is breaking the economic model of the web by decoupling content creation from value, with platforms like Google and OpenAI increasingly providing answers\u2026",
+            "url": "https://tech.slashdot.org/story/25/05/08/1952225/cloudflare-ceo-ai-is-killing-the-business-model-of-the-web",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2025-05-08T22:00:00Z",
+            "content": "Google's value exchange with content creators has collapsed, Prince said: \"Ten years ago... for every two pages of a website that Google scraped, they would send you one visitor. ... That was the tra\u2026 [+1905 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Microsoft.com"
+            },
+            "author": "",
+            "title": "RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code",
+            "description": "The Rust programming language, with its safety guarantees, has established itself as a viable choice for low-level systems programming language over the traditional, unsafe alternatives like C/C++. These guarantees come from a strong ownership-based type syst\u2026",
+            "url": "https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-30T21:56:34Z",
+            "content": "FRIEDERIKE NIEDTNER, Principal Technical Research Program Manager, Microsoft Research AI Frontiers: The following talk combines two projects that both harness the LLM\u2019s capabilities to understand and\u2026 [+10078 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emma Cosgrove",
+            "title": "AT&T's switch from ChatGPT to open-source AI helped it hang on to thousands of customers",
+            "description": "AT&T's switch to open-source AI from ChatGPT enabled cost savings and efficiency, helping the company retain thousands of customers.",
+            "url": "https://www.businessinsider.com/att-open-source-ai-better-than-chatgpt-customer-service-calls-2025-5",
+            "urlToImage": "https://i.insider.com/6818fbf7c6ad288d148007b3?width=1200&format=jpeg",
+            "publishedAt": "2025-05-07T14:30:34Z",
+            "content": "AT&T changed AI tools and reaped the benefits.Getty Images; Alyssa Powell/ BI\r\n<ul><li>AT&T uses AI to categorize 40 million customer service calls annually.</li><li>ChatGPT initially helped but was \u2026 [+5040 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Study shows vision-language models can't handle queries with negation words",
+            "description": "Researchers found that vision-language models, widely used to analyze medical images, do not understand negation words like 'no' and 'not.' This could cause them to fail unexpectedly when asked to retrieve medical images that contain certain objects but not o\u2026",
+            "url": "https://www.sciencedaily.com/releases/2025/05/250514165630.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2025-05-14T20:56:30Z",
+            "content": "Imagine a radiologist examining a chest X-ray from a new patient. She notices the patient has swelling in the tissue but does not have an enlarged heart. Looking to speed up diagnosis, she might use \u2026 [+6605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Lindsay Clark",
+            "title": "The future of LLMs is open source, Salesforce's Benioff says",
+            "description": "Cheaper, open source LLMs will commoditize the market at expense of their bloated counterparts\nThe future of large language models is likely to be open source, according to Marc Benioff, co-founder and longstanding CEO of Salesforce.\u2026<!--#include virtual='/da\u2026",
+            "url": "https://www.theregister.com/2025/05/14/future_of_llms_is_open/",
+            "urlToImage": "https://regmedia.co.uk/2025/05/14/shutterstock_penguin.jpg",
+            "publishedAt": "2025-05-14T18:28:07Z",
+            "content": "The future of large language models is likely to be open source, according to Marc Benioff, co-founder and longstanding CEO of Salesforce.\r\nDespite the hype around LLM builders OpenAI sucked in $40 b\u2026 [+3762 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Dan Robinson",
+            "title": "EuroHPC lines up AI upgrade for Leonardo supercomputer",
+            "description": "And it's Eviden who has no reason to moan over LISA upgrade - though questions over funding remain\nItaly's Leonardo supercomputer is to get an AI upgrade to beef up support for the development of Large Language Models (LLMs) and multi-modal generative AI, in \u2026",
+            "url": "https://www.theregister.com/2025/05/14/eurohpc_inks_deal_for_ai/",
+            "urlToImage": "https://regmedia.co.uk/2025/05/13/cineca-leonardo-system.jpg",
+            "publishedAt": "2025-05-14T07:34:10Z",
+            "content": "Italy's Leonardo supercomputer is to get an AI upgrade to beef up support for the development of Large Language Models (LLMs) and multi-modal generative AI, in addition to the 13 AI factories now bei\u2026 [+2615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "Want to Speak to Dolphins? Researchers Won $100,000 AI Prize Studying Their Whistling",
+            "description": "The scientists studied a bottlenose dolphin community in Sarasota, Florida, uncovering evidence of language-like communications.",
+            "url": "https://www.cnet.com/science/want-to-speak-to-dolphins-researchers-won-100000-ai-prize-studying-their-whistling/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/7771491aea8e803ccff92d1403715d18a59f9abf/hub/2025/05/19/4fb6e611-8af1-4148-9b72-35c6c47defbf/moms-and-calves-s8458-s01-26dec17-060mw-cr-1200x675.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-05-19T16:19:00Z",
+            "content": "If any dolphins are reading this: hello!\r\nA team of scientists studying a community of Florida dolphins has been awarded the first $100,000 Coller Dolittle Challenge prize, set up to award research i\u2026 [+3163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nandika.iyerravi@futurenet.com (Nandika Ravi) , Nandika Ravi",
+            "title": "Google is using Gemini to keep latest online scammers in check",
+            "description": "Google Chrome, Search, and Android are using new AI-powered technologies to defend users against scams.",
+            "url": "https://www.androidcentral.com/apps-software/ai/google-is-using-gemini-to-keep-latest-online-scammers-in-check",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NaTy7LYbsavsqgipmG3B2b.jpg",
+            "publishedAt": "2025-05-12T18:48:00Z",
+            "content": "What you need to know\r\n<ul><li>Google announced that it's using its AI to detect and combat new online scams on Chrome, Search, and Android.</li><li>The tech giant claims that these advancements in A\u2026 [+3121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Claytonwramsey.com"
+            },
+            "author": "Clayton Ramsey",
+            "title": "I'd rather read the prompt",
+            "description": "I have literally never seen LLM writing that actually improved my life.",
+            "url": "https://claytonwramsey.com/blog/prompt/",
+            "urlToImage": null,
+            "publishedAt": "2025-05-04T19:17:28Z",
+            "content": "When I grade students assignments, I sometimes see answers like this:\r\nUtilizing Euler angles for rotation representation could have the following possible downsides:\r\n<ul><li>Gimbal lock: In certain\u2026 [+12005 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Donald Papp",
+            "title": "MCP Blender Addon Lets AI Take the Wheel and Wield the Tools",
+            "description": "Want to give an AI the ability to do stuff in Blender? The BlenderMCP addon does exactly that, connecting open-source 3D modeling software Blender to Anthropic\u2019s Claude AI via MCP (Model Cont\u2026",
+            "url": "https://hackaday.com/2025/05/18/mcp-blender-addon-lets-ai-take-the-wheel-and-wield-the-tools/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/05/Blender-MCP_-Use-Polyhaven-assets-0-38-screenshot.png",
+            "publishedAt": "2025-05-18T08:00:28Z",
+            "content": "Want to give an AI the ability to do stuff in Blender? The BlenderMCP addon does exactly that, connecting open-source 3D modeling software Blender to Anthropic\u2019s Claude AI via MCP (Model Context Prot\u2026 [+1805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sharon Goldman",
+            "title": "Exclusive: What If AI could design a jet engine\u2014or even a starship? Google DeepMind and Airbus veterans just raised $23M with an eye on that future",
+            "description": "P-1 AI just raised $23 million to build a new kind of AI engineer that could someday design starships.",
+            "url": "https://tech.yahoo.com/ai/articles/exclusive-ai-could-design-jet-130000308.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4cR_uDdqKECkTgNTxtPcVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzE-/https://media.zenfs.com/en/fortune_175/4a7595fd943da4618d3c8db9cf0c16d5",
+            "publishedAt": "2025-04-28T13:00:00Z",
+            "content": "When dreaming of the day artificial intelligence achieves human-like ability, former Airbus CTO Paul Eremenko says he's always done so in the context of building real-world machines. I want an AI sup\u2026 [+3864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Michael Nu\u00f1ez",
+            "title": "Meta unleashes Llama API running 18x faster than OpenAI: Cerebras partnership delivers 2,600 tokens per second",
+            "description": "Meta partners with Cerebras to launch its new Llama API, offering developers AI inference speeds up to 18 times faster than traditional GPU solutions, challenging OpenAI and Google in the fast-growing AI services market.",
+            "url": "https://venturebeat.com/ai/meta-unleashes-llama-api-running-18x-faster-than-openai-cerebras-partnership-delivers-2600-tokens-per-second/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_computer_chip_in_the_colors_of_Goolge_71db7087-b8f7-4ae3-ae07-4b36bdee2086.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-04-29T20:02:04Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nMeta announced today a partnership with Cerebras Systems to power its n\u2026 [+6997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Marcus Mendes",
+            "title": "Apple research tackles the English accent of AI",
+            "description": "Ask any non-native English speaker, and they\u2019ll probably tell you that LLMs tend to perform much better in Shakespeare\u2019s language than in their own\n\n\n\nSometimes, the difference is subtle. Sometimes, not so much. Sometimes, it\u2019s downright dangerous, as shown i\u2026",
+            "url": "https://9to5mac.com/2025/05/16/apple-research-tackles-english-accent-of-ai/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-intelligence-slash.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-05-16T21:26:39Z",
+            "content": "Ask any non-native English speaker, and theyll probably tell you that LLMs tend to perform much better in Shakespeares language than in their own\r\nSometimes, the difference is subtle. Sometimes, not \u2026 [+2289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Krebs on Security"
+            },
+            "author": "BrianKrebs",
+            "title": "xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs",
+            "description": "A employee at Elon Musk's artificial intelligence company xAI\u00a0leaked a private key on GitHub that for the past two months could have allowed anyone to query private xAI large language models (LLMs) which appear to have been custom made for working with intern\u2026",
+            "url": "https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/",
+            "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2025/05/x-ai.png",
+            "publishedAt": "2025-05-02T00:52:00Z",
+            "content": "An employee at Elon Musk\u2019s artificial intelligence company xAI\u00a0leaked a private key on GitHub that for the past two months could have allowed anyone to query private xAI large language models (LLMs) \u2026 [+4852 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Effie Webb",
+            "title": "This Texas mom made $8,000 in 3 weeks training AI at her kitchen table. She says it's 'not easy money.'",
+            "description": "Amanda Overcash trains AI at night after her real estate job. She likes the flexibility, says it helps pay the bills, and \"show up\" for her daughter.",
+            "url": "https://www.businessinsider.com/ai-training-side-hustle-earnings-real-estate-mom-2025-4",
+            "urlToImage": "https://i.insider.com/680a00aa3fe8d3928363ec92?width=1200&format=jpeg",
+            "publishedAt": "2025-04-25T08:00:01Z",
+            "content": "Amanda Overcash fits in AI work around parenting and a full-time job.Natalie Szolomayer\r\n<ul><li>Amanda Overcash trains AI from home after clocking out from her full-time real estate job.</li><li>She\u2026 [+7745 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Michael Nu\u00f1ez",
+            "title": "Meet AlphaEvolve, the Google AI that writes its own code\u2014and just saved millions in computing costs",
+            "description": "Google DeepMind's AlphaEvolve AI system breaks a 56-year-old mathematical record by discovering a more efficient matrix multiplication algorithm that had eluded human mathematicians since Strassen's 1969 breakthrough.",
+            "url": "https://venturebeat.com/ai/meet-alphaevolve-the-google-ai-that-writes-its-own-code-and-just-saved-millions-in-computing-costs/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_evolving_code_tree_in_Google_colors_2e392766-16da-4fbf-b4da-2c23cfbd7cb4.webp?w=996?w=1200&strip=all",
+            "publishedAt": "2025-05-14T15:00:00Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nGoogle DeepMind today pulled the curtain back on AlphaEvolve, an artifi\u2026 [+7251 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Melia Russell",
+            "title": "What Harvey is doing to win the legal AI race it inadvertently started",
+            "description": "Three-year-old startup Harvey helped wake up the legal world to what AI could do for lawyers. A stampede of rivals followed.",
+            "url": "https://www.businessinsider.com/harvey-legal-tech-startup-faces-growing-competition-2025-5",
+            "urlToImage": "https://i.insider.com/682230ed68a2929008010e70?width=1200&format=jpeg",
+            "publishedAt": "2025-05-13T09:00:02Z",
+            "content": "Harvey cofounder and CEO Winston Weinberg.Harvey\r\n<ul><li>Three-year-old startup Harvey helped wake up the legal world to what AI could do for lawyers.</li><li>Now, it's fighting to defend the turf i\u2026 [+6667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cornell.edu"
+            },
+            "author": null,
+            "title": "AI suggestions make writing more generic, Western",
+            "description": "A new study from Cornell on AI writing assistants finds these tools have the potential to function poorly for billions of users in the Global South by generating generic language that makes them sound more like Americans.",
+            "url": "https://news.cornell.edu/stories/2025/04/ai-suggestions-make-writing-more-generic-western",
+            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2024-06/0611_ai_tnd_0.jpg?itok=1HerfeC0",
+            "publishedAt": "2025-04-30T23:58:12Z",
+            "content": "Artificial intelligence-based writing assistants are popping up everywhere from phones to email apps to social media platforms.\r\nBut a new study from Cornell one of the first to show an impact on the\u2026 [+4534 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Jenny List",
+            "title": "ChatGPT & Me. ChatGPT Is Me!",
+            "description": "For a while now part of my email signature has been a quote from a Hackaday commenter insinuating that an article I wrote was created by a \u201cDumb AI\u201d. You have my sincerest promise that \u2026",
+            "url": "https://hackaday.com/2025/05/16/chatgpt-me-chatgpt-is-me/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2023/03/AIcoding.jpg",
+            "publishedAt": "2025-05-16T17:00:09Z",
+            "content": "For a while now part of my email signature has been a quote from a Hackaday commenter insinuating that an article I wrote was created by a \u201cDumb AI\u201d. You have my sincerest promise that I am a humble \u2026 [+4788 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sydney Bradley",
+            "title": "The new face of professional networking isn't human",
+            "description": "AI startups are disrupting professional networking, stirring buzz, and attracting attention from investors.",
+            "url": "https://www.businessinsider.com/ai-professional-networking-startups-linkedin-2025-5",
+            "urlToImage": "https://i.insider.com/681d23313fe8d39283655dea?width=1200&format=jpeg",
+            "publishedAt": "2025-05-09T08:05:02Z",
+            "content": "This is \"Boardy,\" an AI chatbot that people can talk to over the phone to find new professional connections.Boardy\r\n<ul><li>Get ready for more AI tools shaping how you professionally network.</li><li\u2026 [+3411 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "Absolute Zero: Reinforced Self-Play Reasoning with Zero Data",
+            "description": "Reinforcement learning with verifiable rewards (RLVR) has shown promise in enhancing the reasoning capabilities of large language models by learning directly from outcome-based rewards. Recent RLVR works that operate under the zero setting avoid supervision i\u2026",
+            "url": "https://arxiv.org/abs/2505.03335",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-05-11T07:07:26Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard",
+            "description": "About Stack AI\nVision: Democratize access to Large Language Models, so that anyone can build AI-powered applications that generate positive impact to the world.\nProduct: A user-friendly and intuitive No-Code platform integrating best AI models (OpenAI, Anthro\u2026",
+            "url": "https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer",
+            "urlToImage": "https://www.ycombinator.com/images/original/missing.png",
+            "publishedAt": "2025-05-14T21:01:15Z",
+            "content": "About Stack AI\r\n<ol><li>Vision: Democratize access to Large Language Models, so that anyone can build AI-powered applications that generate positive impact to the world.</li><li>Product: A user-frien\u2026 [+3053 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shubham Agarwal",
+            "title": "Your next assignment at work: babysitting AI",
+            "description": "Carnegie Mellon staffed a fake company with AI agents. It was a total disaster.",
+            "url": "https://www.businessinsider.com/ai-agents-study-company-run-by-ai-disaster-replace-jobs-2025-4",
+            "urlToImage": "https://i.insider.com/67f835fea466d2b74ab2de08?width=1200&format=jpeg",
+            "publishedAt": "2025-04-22T08:15:02Z",
+            "content": "The new hire had a simple task. All they had to do was assign people to work on a new web development project based on the client's budget and the team's availability. But the staffer soon ran into a\u2026 [+11489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Carl Franzen",
+            "title": "Elon Musk\u2019s xAI tries to explain Grok\u2019s South African race relations freakout the other day",
+            "description": "With its prompts now public and a team of human babysitters on call, Grok is supposedly back on script. But the incident underscores...",
+            "url": "https://venturebeat.com/ai/elon-musks-xai-tries-to-explain-groks-south-african-race-relations-freakout-the-other-day/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_remove_and_replace_with__-chaos_20_-ar_9151_-raw_-_59ecf2ed-ce6b-4f34-8503-b8b1ea5fc6d9_0.png?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-16T02:47:22Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nIf you asked the Grok AI chatbot built into Elon Musks social network X\u2026 [+6045 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Information"
+            },
+            "author": "John Gruber",
+            "title": "The Information: \u2018Meta Asked Amazon, Microsoft to Help Fund Llama\u2019",
+            "description": null,
+            "url": "https://www.theinformation.com/articles/meta-asked-amazon-microsoft-help-fund-llama",
+            "urlToImage": null,
+            "publishedAt": "2025-04-21T22:29:03Z",
+            "content": "Kalley Huang and Erin Woo, reporting for The Information (via Ed Zitron, who summarized it on Bluesky):\n\n\n Meta Platforms over the past year asked Microsoft, Amazon and\nothers to help pay the costs o\u2026 [+1797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Is the Altruistic OpenAI Gone?",
+            "description": "\"The altruistic OpenAI is gone, if it ever existed,\" argues a new article in the Atlantic, based on interviews with more than 90 current and former employees, including executives. It notes that shortly before Altman's ouster (and rehiring) he was \"seemingly \u2026",
+            "url": "https://slashdot.org/story/25/05/17/1925212/is-the-altruistic-openai-gone",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2025-05-17T20:34:00Z",
+            "content": "\"The altruistic OpenAI is gone, if it ever existed,\" argues a new article in the Atlantic, based on interviews with more than 90 current and former employees, including executives. It notes that shor\u2026 [+4900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "sean.endicott@futurenet.com (Sean Endicott) , Sean Endicott",
+            "title": "This new tech could be for AI agents what HTML was to the open web",
+            "description": "At Build 2025, Microsoft discussed NLWeb and MCP, open standards that could revolutionize the web and help developers connect sites to AI agents.",
+            "url": "https://www.windowscentral.com/software-apps/this-new-tech-could-be-for-ai-agents-what-html-was-to-the-open-web",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TcNhdHTtKv2Ndi7uSgTiF7.jpg",
+            "publishedAt": "2025-05-19T17:14:02Z",
+            "content": "Microsoft and GitHub have joined the Model Context Protocol (MCP) Steering Committee. As part of the announcement, the tech giant shared that it will deliver first-party support for MCP across GitHub\u2026 [+3284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Michael Nu\u00f1ez",
+            "title": "Microsoft just taught its AI agents to talk to each other\u2014and it could transform how we work",
+            "description": "Microsoft unveils multi-agent systems, WhatsApp integration, and Python-powered analytics for Copilot Studio at Build 2025, transforming how enterprises build and deploy AI solutions.",
+            "url": "https://venturebeat.com/ai/microsoft-just-taught-its-ai-agents-to-talk-to-each-other-and-it-could-transform-how-we-work/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_the_Microsoft_logo_against_a_pastel_bac_4b8aaeb4-865f-44bc-b29b-bafb038fca54.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-19T16:01:00Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nMicrosoft announced a significant expansion of its Copilot Studio platf\u2026 [+9303 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katie Notopoulos",
+            "title": "Hype AI or hide it? CEOs are walking a tightrope",
+            "description": "Wall Street loves when companies boast about using AI. But  customers hate it.",
+            "url": "https://www.businessinsider.com/ai-messaging-backlash-duolingo-shopify-controversy-2025-5",
+            "urlToImage": "https://i.insider.com/682d02b068a292900801dcee?width=1200&format=jpeg",
+            "publishedAt": "2025-05-21T09:31:01Z",
+            "content": "Getty Images; Chelsea Jia Feng/BI\r\n<ul><li>Duolingo is the latest company to spark backlash over its CEO's excitement about AI.</li><li>Investors and Wall Street love hearing about companies' ambitio\u2026 [+5179 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD",
+            "description": "Location: Peninsula\nAbout Us: We are Hestus. We are creating AI-powered CAD to revolutionize the hardware development process. Join our dynamic startup where innovation meets dedication. We are a fast-growing company looking for a versatile and enthusiastic M\u2026",
+            "url": "https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer",
+            "urlToImage": "https://www.ycombinator.com/images/original/missing.png",
+            "publishedAt": "2025-04-29T17:01:15Z",
+            "content": "Location: Peninsula\r\nAbout Us: We are Hestus. We are creating AI-powered CAD to revolutionize the hardware development process. Join our dynamic startup where innovation meets dedication. We are a fa\u2026 [+2686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Research.google"
+            },
+            "author": null,
+            "title": "ML-Enhanced Code Completion Improves Developer Productivity (2022)",
+            "description": "Posted by Maxim Tabachnyk, Staff Software Engineer and Stoyan Nikolov, Senior Engineering Manager, Google Research   Update \u2014 2022/09/06: This post...",
+            "url": "https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/",
+            "urlToImage": "https://storage.googleapis.com/gweb-research2023-media/images/a19e2536de033f8d6600ee8ecb2f1b90-i.width-800.format-jpeg.jpg",
+            "publishedAt": "2025-05-13T11:20:49Z",
+            "content": "Update 2022/09/06: This post has been updated to remove a statement about an observed reduction in context switches that could not be confirmed with statistical significance.\r\nThe increasing complexi\u2026 [+9344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digiday"
+            },
+            "author": "Tim Peterson",
+            "title": "WTF is Retrieval Augmented Generation for AI chatbots and large language models?",
+            "description": "Companies can use RAG to provide chatbots with up-to-date information while controlling what information is made available to the large language models powering them.",
+            "url": "http://digiday.com/marketing/wtf-is-retrieval-augmented-generation-for-ai-chatbots-and-large-language-models/",
+            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/02/manufactured-ai-digiday.gif",
+            "publishedAt": "2025-05-06T04:01:00Z",
+            "content": "This article is a WTF explainer, in which we break down media and marketing\u2019s most confusing terms. More from the series \u2192\r\nAI-powered chatbots are scary smart, thanks to the large language models un\u2026 [+1102 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Alex Wilkins",
+            "title": "Housework robots are a step closer as they learn to work in any home",
+            "description": "Robots often struggle to carry out tasks in places where they haven\u2019t been trained, but a new AI model helps them clean up a mess or make a bed in unfamiliar settings",
+            "url": "https://www.newscientist.com/article/2478122-housework-robots-are-a-step-closer-as-they-learn-to-work-in-any-home/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/04/25145625/SEI_248786535.jpg",
+            "publishedAt": "2025-05-01T08:00:10Z",
+            "content": "Robots equipped with the 0.5 AI model were tested in homes they had never seen before\r\nPhysical Intelligence\r\nAn AI enabling robots to do chores like making the bed or cleaning up spills in homes it \u2026 [+370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Matt Marshall",
+            "title": "Google\u2019s AlphaEvolve: The AI agent that reclaimed 0.7% of Google\u2019s compute \u2013 and how to copy it",
+            "description": "Google's AlphaEvolve is the epitome of a best-practice AI agent orchestration. It offers a lesson in production-grade agent engineering. Discover its architecture & essential takeaways for your enterprise AI strategy.",
+            "url": "https://venturebeat.com/ai/googles-alphaevolve-the-ai-agent-that-reclaimed-0-7-of-googles-compute-and-how-to-copy-it/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/ChatGPT-Image-May-16-2025-04_25_10-PM.png?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-17T00:31:12Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nGoogles new AlphaEvolve shows what happens when an AI agent graduates f\u2026 [+10854 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "SAP Guest, SAP, \n SAP Guest, SAP\n https://www.forbes.com/sites/sap/people/jessicajones1/",
+            "title": "How Small Language Models Deliver Big Business Benefits",
+            "description": "Small language models\u2014a bite-size alternative to large language models\u2014can deliver big benefits for the right business scenarios.",
+            "url": "https://www.forbes.com/sites/sap/2025/05/09/how-small-language-models-deliver-big-business-benefits/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681debbb676e4ea0b20bf084/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-05-09T12:03:45Z",
+            "content": "Small Language Models (SLM) are trained on focused datasets, making them very efficient at tasks like analyzing customer feedback, generating product descriptions, or handling specialized industry ja\u2026 [+6222 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Ben Dickson",
+            "title": "The \u2018era of experience\u2019 will unleash self-learning AI agents across the web\u2014here\u2019s how to prepare",
+            "description": "AI visionaries predict an 'Era of Experience' where AI learns autonomously, and it will have important implications for application design.",
+            "url": "https://venturebeat.com/ai/the-era-of-experience-will-unleash-self-learning-ai-agents-across-the-web-heres-how-to-prepare/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/era-of-experience.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-04-30T20:38:01Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nDavid Silver and Richard Sutton, two renowned AI scientists, argue in a\u2026 [+6913 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Jackson",
+            "title": "Mark Zuckerberg says AI could soon do the work of some engineers at Meta. Here's how AI is shaking up other Big Tech firms.",
+            "description": "Meta CEO Mark Zuckerberg said technologies like AI mean founders can better \"focus on the core idea\" of their companies.",
+            "url": "https://www.businessinsider.com/mark-zuckerberg-ai-startup-company-with-small-team-2025-5",
+            "urlToImage": "https://i.insider.com/681d0da7c6ad288d14806f23?width=1200&format=jpeg",
+            "publishedAt": "2025-05-10T08:45:02Z",
+            "content": "Meta CEO Mark Zuckerberg says entrepreneurs building businesses today should take advantage of tools like AI that he couldn't lean on when he was starting Facebook 20 years ago.Manuel Orbegozo/REUTER\u2026 [+4366 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alistair Barr",
+            "title": "An exclusive look inside the hottest legal AI startup",
+            "description": "BI Tech Memo: Explore how AI is transforming the legal and consulting sectors, and get your weekly dose of Big Tech scoops and insights.",
+            "url": "https://www.businessinsider.com/tech-memo-ai-law-consulting-harvery-2025-5",
+            "urlToImage": "https://i.insider.com/682756c7c6ad288d14812743?width=1200&format=jpeg",
+            "publishedAt": "2025-05-16T15:21:31Z",
+            "content": "Harvey CEO Winston WeinbergReuters/Fortune\r\n<ul><li>This post originally appeared in the first edition of the BI Tech Memo newsletter.</li><li>You can sign up for the weekly BI Tech Memo newsletter h\u2026 [+6850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
+            "title": "Deepfake Defense in the Age of AI",
+            "description": "The cybersecurity landscape has been dramatically reshaped by the advent of generative AI. Attackers now leverage large language models (LLMs) to impersonate trusted individuals and automate these social engineering tactics at scale.\u00a0\nLet\u2019s review the status \u2026",
+            "url": "https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8oLli1T1VczcsVUrj2XvkoGPPiPTxLAo3ZR4P2dYOIgG479ihVOyiYBOJ3yueuijIMQV9jA1dCNrmnF-rZQf-u26nBASpuifzgeQGr46eMGUp97HRNUHLn0tkICgrcfJdaSj550dcumLP5xfTooDNYaywCXLe0DjdsTN2fvW9vGnj1ldWglhUXTSOx-M/s2600/deepfake.jpg",
+            "publishedAt": "2025-05-13T11:00:00Z",
+            "content": "The cybersecurity landscape has been dramatically reshaped by the advent of generative AI. Attackers now leverage large language models (LLMs) to impersonate trusted individuals and automate these so\u2026 [+3813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zed.dev"
+            },
+            "author": "Richard Feldman",
+            "title": "Zed: The Fastest AI Code Editor",
+            "description": "From the Zed Blog: Zed is now the world's fastest AI code editor.",
+            "url": "https://zed.dev/blog/fastest-ai-code-editor",
+            "urlToImage": "https://zed.dev/api/og?title=Zed%3A%20The%20Fastest%20AI%20Code%20Editor",
+            "publishedAt": "2025-05-07T06:38:40Z",
+            "content": "For millions of years, humans have used tools to create things. We programmers have recently created some very useful tools for ourselves: large language models. So far, these futuristic tools have b\u2026 [+6884 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zed.dev"
+            },
+            "author": "Richard Feldman",
+            "title": "Agentic Editing in Zed",
+            "description": "From the Zed Blog: Zed is now the world's fastest AI code editor.",
+            "url": "https://zed.dev/blog/fastest-ai-code-editor?e=60",
+            "urlToImage": "https://zed.dev/api/og?title=Zed%3A%20The%20Fastest%20AI%20Code%20Editor",
+            "publishedAt": "2025-05-07T10:04:45Z",
+            "content": "For millions of years, humans have used tools to create things. We programmers have recently created some very useful tools for ourselves: large language models. So far, these futuristic tools have b\u2026 [+6884 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MIT Technology Review"
+            },
+            "author": "Rhiannon Williams",
+            "title": "AI can do a better job of persuading people than we do",
+            "description": "Millions of people argue with each other online every day, but remarkably few of them change someone\u2019s mind. New research suggests that large language models (LLMs) might do a better job. The finding suggests that AI could become a powerful tool for persuadin\u2026",
+            "url": "https://www.technologyreview.com/2025/05/19/1116779/ai-can-do-a-better-job-of-persuading-people-than-we-do/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/05/250516_LLMfightsSA.jpg?resize=1200,600",
+            "publishedAt": "2025-05-19T15:00:00Z",
+            "content": "Their findings are the latest in a growing body of research demonstrating LLMs powers of persuasion. The authors warn they show how AI tools can craft sophisticated, persuasive arguments if they have\u2026 [+1503 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Ben Dickson",
+            "title": "Mem0\u2019s scalable memory promises more reliable AI agents that remembers context across lengthy conversations",
+            "description": "Mem0's architecture is designed to LLM memory and enhance consistency for more reliable agent performance in long conversations.",
+            "url": "https://venturebeat.com/ai/mem0s-scalable-memory-promises-more-reliable-ai-agents-that-remembers-context-across-lengthy-conversations/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/robot-recalling-past-conversations.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-08T19:13:30Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nResearchers at Mem0 have introduced two new memory architectures design\u2026 [+9110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Carl Franzen",
+            "title": "Former DeepSeeker and collaborators release new method for training reliable AI agents: RAGEN",
+            "description": "RAGEN stands out not just as a technical contribution but as a conceptual step toward more autonomous, reasoning-capable AI agents.",
+            "url": "https://venturebeat.com/ai/former-deepseeker-and-collaborators-release-new-method-for-training-reliable-ai-agents-ragen/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_college_classroom_with_robots_in_it_a5945ebd-0047-40a5-aeb7-79daba2024a0.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-04-23T20:04:00Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\n2025 was, by many expert accounts, supposed to be the year of AI agents\u2026 [+8317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "SureScaleAI",
+            "title": "Show HN: Cleverb.ee \u2013 open-source agent that writes a cited research report",
+            "description": "CleverBee - The Open Source Deep Researcher Tool. Contribute to SureScaleAI/cleverbee development by creating an account on GitHub.",
+            "url": "https://github.com/SureScaleAI/cleverbee",
+            "urlToImage": "https://opengraph.githubassets.com/9745df801aafb59eefab1d59f923d18da763de7e4205e1c888b84a5c5086d233/SureScaleAI/cleverbee",
+            "publishedAt": "2025-04-28T04:04:32Z",
+            "content": "WebsiteDocumentationGitHub\r\nCleverBee is a powerful Python-based research agent using Large Language Models (LLMs) like Claude and Gemini, Playwright for web browsing, and Chainlit for an interactive\u2026 [+2145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float",
+            "description": "Large Language Models (LLMs) have grown rapidly in size, creating significant challenges for efficient deployment on resource-constrained hardware. In this paper, we introduce Dynamic-Length Float (DFloat11), a lossless compression framework that reduces LLM \u2026",
+            "url": "https://arxiv.org/abs/2504.11651",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-25T18:20:53Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Workday\u2019s new head of product wants you to like Workday as much as he does",
+            "description": "Today, I\u2019m talking with Gerrit Kazmaier, the new president of product and technology at Workday, an enterprise software company. Decoder listeners probably know the name Workday; a lot of companies use its platform for HR and finance management, which the sui\u2026",
+            "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/667538/workday-gerrit-kazmaier-enterprise-software-ai-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/DCD_Workday.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+            "publishedAt": "2025-05-15T15:34:31Z",
+            "content": "Today, I\u2019m talking with Gerrit Kazmaier, the new president of product and technology at Workday, an enterprise software company. Decoder listeners probably know the name Workday; a lot of companies u\u2026 [+65032 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "gojiplus",
+            "title": "RepoRoulette: Randomly sample repositories from GitHub",
+            "description": "Sample Random GitHub Repositories. Contribute to gojiplus/reporoulette development by creating an account on GitHub.",
+            "url": "https://github.com/gojiplus/reporoulette",
+            "urlToImage": "https://repository-images.githubusercontent.com/955596009/a70d6a63-14de-4390-85b4-0e92dbab1343",
+            "publishedAt": "2025-05-18T00:10:32Z",
+            "content": "Spin the wheel and see which GitHub repositories you get!\r\n# Using pip\r\npip install reporoulette\r\n# From source\r\ngit clone https://github.com/gojiplus/reporoulette.git\r\ncd reporoulette\r\npip install -\u2026 [+4840 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "Understanding Transformers via N-gram Statistics",
+            "description": "Transformer based large-language models (LLMs) display extreme proficiency with language yet a precise understanding of how they work remains elusive. One way of demystifying transformer predictions would be to describe how they depend on their context in ter\u2026",
+            "url": "https://arxiv.org/abs/2407.12034",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-05-17T19:56:00Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "AI humanoid robot is changing the way you buy cars at dealerships",
+            "description": "Robots like Chery's Mornine are transforming car dealerships, offering multilingual support, showroom tours and a glimpse into the future of retail.",
+            "url": "https://www.foxnews.com/tech/ai-humanoid-robot-changing-way-you-buy-cars-dealerships",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/1-ready-to-ditch-the-car-salesperson_-ai-robot-is-taking-over-dealerships.jpg",
+            "publishedAt": "2025-05-17T10:00:11Z",
+            "content": "The world of car dealerships is changing rapidly as AI humanoid robots, once confined to factory floors, are now stepping into showrooms to greet customers, explain features and even pour coffee.\u00a0\r\nA\u2026 [+4351 chars]"
+        }
+    ]
+}
