@@ -67,10 +67,10 @@ for article in articles:
     vader_label, vader_score = apply_vader(content)
     article['vader_label'] = vader_label
     article['vader_score'] = vader_score
-
+    
     date = article.get('publishedAt', '')
     date = datetime.datetime.strptime(date, '%Y-%m-%dT%H:%M:%SZ')
-    date = date.strftime('%Y-%d-%m')
+    date = date.strftime('%Y-%m-%d')
     article['date'] = date
 
 distilbert_results = apply_distilbert(contents)
@@ -83,10 +83,13 @@ for article, result in zip(articles, roberta_results):
     article['roberta_label'] = result['label']
     article['roberta_score'] = round(result['score'], 3)
 
+# Turning the list into a pandas dataframe
 df = pd.DataFrame(articles)
-df = df.drop(['author', 'title', 'description', 'url', 'urlToImage', 'content'], axis=1)
+df = df.drop(['author', 'title', 'description', 'publishedAt', 'url', 'urlToImage', 'content'], axis=1)
 df['source'] = [s.get('name', '') for s in df['source']]
 
-plt.figure()
-plt.bar(df['date'], df['blob_label'])
-plt.show()
+# Selecting the final columns
+df = df[['date', 'source', 'blob_label', 'blob_score', 'vader_label', 'vader_score',
+              'distilbert_label', 'distilbert_score', 'roberta_label', 'roberta_score']]
+
+# df.to_csv('news_data.csv', index=False)

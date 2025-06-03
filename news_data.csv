@@ -1,0 +1,101 @@
+date,source,blob_label,blob_score,vader_label,vader_score,distilbert_label,distilbert_score,roberta_label,roberta_score
+2025-05-14,Wired,Positive,0.117,Positive,0.758,POSITIVE,0.997,neutral,0.921
+2025-04-29,The Verge,Positive,0.195,Positive,0.297,NEGATIVE,0.999,anger,0.557
+2025-05-09,Business Insider,Positive,0.205,Neutral,0.0,POSITIVE,0.92,joy,0.734
+2025-05-08,VentureBeat,Positive,0.214,Negative,-0.494,NEGATIVE,0.922,neutral,0.864
+2025-05-19,Seangoedecke.com,Positive,0.164,Positive,0.44,NEGATIVE,0.957,neutral,0.955
+2025-04-27,Arxiv.org,Positive,0.189,Negative,-0.128,NEGATIVE,0.985,neutral,0.738
+2025-05-20,MacRumors,Negative,-0.021,Positive,0.71,POSITIVE,0.526,neutral,0.914
+2025-05-01,The Verge,Positive,0.071,Neutral,0.0,POSITIVE,0.965,neutral,0.872
+2025-05-17,Gizmodo.com,Positive,1.0,Positive,0.637,NEGATIVE,0.994,neutral,0.859
+2025-05-15,CNET,Negative,-0.095,Positive,0.361,NEGATIVE,1.0,fear,0.469
+2025-05-02,Wired,Neutral,0.0,Negative,-0.784,NEGATIVE,0.997,fear,0.954
+2025-04-27,Business Insider,Negative,-0.125,Positive,0.152,NEGATIVE,0.997,neutral,0.86
+2025-05-01,Business Insider,Positive,0.268,Negative,-0.44,POSITIVE,0.957,neutral,0.565
+2025-05-21,The Atlantic,Positive,0.214,Neutral,0.0,NEGATIVE,0.997,neutral,0.635
+2025-05-14,Deepmind.google,Positive,0.307,Positive,0.557,POSITIVE,0.999,neutral,0.72
+2025-04-23,VentureBeat,Positive,0.467,Positive,0.44,NEGATIVE,0.773,neutral,0.906
+2025-05-19,CNET,Neutral,0.0,Positive,0.557,POSITIVE,0.788,neutral,0.909
+2025-04-30,Github.com,Positive,0.454,Positive,0.765,POSITIVE,1.0,neutral,0.8
+2025-04-24,Medium,Positive,0.405,Positive,0.25,NEGATIVE,0.998,neutral,0.828
+2025-05-19,Business Insider,Neutral,0.0,Positive,0.178,NEGATIVE,0.965,neutral,0.741
+2025-05-06,Gizmodo.com,Negative,-0.09,Negative,-0.44,NEGATIVE,0.999,neutral,0.56
+2025-04-28,VentureBeat,Neutral,0.0,Positive,0.649,POSITIVE,0.996,neutral,0.592
+2025-05-16,Business Insider,Negative,-0.433,Negative,-0.296,NEGATIVE,0.532,sadness,0.765
+2025-04-28,Business Insider,Positive,0.2,Positive,0.296,POSITIVE,0.988,neutral,0.928
+2025-05-20,9to5Mac,Positive,0.055,Positive,0.612,POSITIVE,0.988,neutral,0.752
+2025-05-12,VentureBeat,Positive,0.227,Positive,0.753,POSITIVE,0.99,neutral,0.888
+2025-04-28,Business Insider,Neutral,0.0,Neutral,0.0,POSITIVE,0.994,fear,0.892
+2025-04-23,BBC News,Positive,0.7,Positive,0.318,POSITIVE,0.823,anger,0.622
+2025-05-15,Business Insider,Positive,0.129,Positive,0.649,POSITIVE,0.988,neutral,0.96
+2025-05-08,Business Insider,Positive,0.2,Negative,-0.694,NEGATIVE,0.999,neutral,0.596
+2025-05-11,Business Insider,Negative,-0.25,Negative,-0.779,NEGATIVE,0.997,disgust,0.358
+2025-05-09,Flowingdata.com,Positive,0.155,Positive,0.758,NEGATIVE,0.503,neutral,0.843
+2025-04-24,Gizmodo.com,Positive,0.118,Positive,0.361,NEGATIVE,0.996,neutral,0.863
+2025-05-21,Theregister.com,Positive,0.214,Neutral,0.0,POSITIVE,0.711,disgust,0.62
+2025-04-30,Arxiv.org,Positive,0.08,Neutral,0.0,POSITIVE,0.772,neutral,0.869
+2025-05-12,VentureBeat,Positive,0.161,Positive,0.78,NEGATIVE,0.994,neutral,0.963
+2025-04-22,Arxiv.org,Positive,0.238,Negative,-0.318,POSITIVE,0.934,neutral,0.365
+2025-05-07,MacRumors,Negative,-0.017,Positive,0.612,POSITIVE,0.884,neutral,0.783
+2025-05-16,VentureBeat,Positive,0.047,Negative,-0.361,POSITIVE,0.991,neutral,0.903
+2025-05-10,VentureBeat,Neutral,0.0,Positive,0.784,NEGATIVE,0.972,neutral,0.922
+2025-05-19,Business Insider,Neutral,0.0,Neutral,0.0,POSITIVE,0.892,neutral,0.944
+2025-05-13,VentureBeat,Positive,0.068,Neutral,0.0,POSITIVE,0.539,neutral,0.945
+2025-05-17,Business Insider,Negative,-0.1,Neutral,0.0,POSITIVE,0.998,neutral,0.921
+2025-04-22,VentureBeat,Positive,0.85,Positive,0.881,POSITIVE,0.999,neutral,0.904
+2025-04-30,Github.io,Negative,-0.033,Positive,0.751,POSITIVE,0.999,neutral,0.654
+2025-05-10,VentureBeat,Negative,-0.091,Positive,0.103,NEGATIVE,0.987,neutral,0.945
+2025-05-02,Business Insider,Positive,0.125,Positive,0.477,NEGATIVE,0.993,neutral,0.467
+2025-05-06,Nuejs.org,Positive,0.142,Positive,0.709,POSITIVE,0.999,joy,0.649
+2025-04-30,Github.com,Neutral,0.0,Neutral,0.0,POSITIVE,0.999,neutral,0.735
+2025-05-07,Arxiv.org,Positive,0.333,Neutral,0.0,POSITIVE,0.999,neutral,0.848
+2025-05-08,Slashdot.org,Positive,0.025,Negative,-0.128,NEGATIVE,0.999,fear,0.719
+2025-04-30,Microsoft.com,Positive,0.217,Positive,0.735,POSITIVE,0.988,neutral,0.914
+2025-05-07,Business Insider,Neutral,0.0,Positive,0.572,POSITIVE,0.999,neutral,0.691
+2025-05-14,Science Daily,Negative,-0.048,Neutral,0.013,NEGATIVE,1.0,surprise,0.67
+2025-05-14,Theregister.com,Positive,0.031,Neutral,0.0,NEGATIVE,0.992,neutral,0.932
+2025-05-14,Theregister.com,Positive,0.214,Neutral,-0.026,NEGATIVE,0.986,neutral,0.831
+2025-05-19,CNET,Neutral,0.0,Positive,0.807,POSITIVE,0.923,neutral,0.717
+2025-05-12,Android Central,Positive,0.318,Negative,-0.586,NEGATIVE,0.991,neutral,0.739
+2025-05-04,Claytonwramsey.com,Neutral,0.0,Positive,0.477,NEGATIVE,0.998,neutral,0.542
+2025-05-18,Hackaday,Positive,0.25,Positive,0.318,POSITIVE,0.989,neutral,0.928
+2025-04-28,Yahoo Entertainment,Positive,0.368,Positive,0.128,NEGATIVE,0.509,neutral,0.523
+2025-04-29,VentureBeat,Positive,0.212,Positive,0.318,POSITIVE,0.991,neutral,0.569
+2025-05-16,9to5Mac,Positive,0.052,Negative,-0.052,NEGATIVE,0.994,fear,0.584
+2025-05-02,Krebs on Security,Negative,-0.079,Positive,0.202,NEGATIVE,0.999,neutral,0.628
+2025-04-25,Business Insider,Negative,-0.008,Positive,0.612,POSITIVE,0.991,neutral,0.835
+2025-05-14,VentureBeat,Positive,0.275,Positive,0.709,POSITIVE,0.989,neutral,0.67
+2025-05-13,Business Insider,Positive,0.4,Positive,0.459,POSITIVE,0.706,neutral,0.663
+2025-04-30,Cornell.edu,Positive,0.126,Positive,0.42,NEGATIVE,1.0,neutral,0.629
+2025-05-16,Hackaday,Negative,-0.375,Positive,0.764,NEGATIVE,0.976,anger,0.48
+2025-05-09,Business Insider,Positive,0.112,Positive,0.477,NEGATIVE,0.953,neutral,0.832
+2025-05-11,Arxiv.org,Positive,0.129,Positive,0.743,POSITIVE,0.998,neutral,0.868
+2025-05-14,Hacker News,Positive,0.481,Positive,0.869,POSITIVE,0.996,neutral,0.868
+2025-04-22,Business Insider,Negative,-0.167,Negative,-0.802,NEGATIVE,1.0,disgust,0.514
+2025-05-16,VentureBeat,Negative,-0.037,Negative,-0.226,NEGATIVE,0.996,neutral,0.522
+2025-04-21,The Information,Neutral,0.0,Positive,0.527,NEGATIVE,0.998,neutral,0.899
+2025-05-17,Slashdot.org,Positive,0.127,Negative,-0.382,NEGATIVE,0.999,neutral,0.264
+2025-05-19,Windows Central,Positive,0.045,Positive,0.402,POSITIVE,0.978,neutral,0.848
+2025-05-19,VentureBeat,Neutral,0.0,Positive,0.178,POSITIVE,0.999,neutral,0.796
+2025-05-21,Business Insider,Negative,-0.8,Negative,-0.619,NEGATIVE,0.996,anger,0.611
+2025-04-29,Hacker News,Positive,0.3,Positive,0.896,POSITIVE,0.999,neutral,0.766
+2025-05-13,Research.google,Neutral,0.0,Positive,0.421,POSITIVE,0.993,neutral,0.462
+2025-05-06,Digiday,Positive,0.082,Negative,-0.674,NEGATIVE,0.991,surprise,0.525
+2025-05-01,New Scientist,Positive,0.109,Positive,0.468,POSITIVE,0.987,neutral,0.924
+2025-05-17,VentureBeat,Positive,0.05,Neutral,0.0,POSITIVE,0.999,neutral,0.909
+2025-05-09,Forbes,Positive,0.05,Positive,0.382,POSITIVE,1.0,neutral,0.783
+2025-04-30,VentureBeat,Positive,0.4,Positive,0.202,POSITIVE,0.995,neutral,0.875
+2025-05-10,Business Insider,Positive,0.016,Positive,0.572,NEGATIVE,0.998,neutral,0.398
+2025-05-16,Business Insider,Positive,0.133,Positive,0.361,POSITIVE,0.999,neutral,0.859
+2025-05-13,Internet,Positive,0.124,Neutral,-0.026,POSITIVE,0.979,neutral,0.784
+2025-05-07,Zed.dev,Neutral,0.0,Neutral,0.0,POSITIVE,0.999,surprise,0.533
+2025-05-07,Zed.dev,Neutral,0.0,Neutral,0.0,POSITIVE,0.999,neutral,0.557
+2025-05-19,MIT Technology Review,Positive,0.189,Positive,0.832,NEGATIVE,0.998,neutral,0.824
+2025-05-08,VentureBeat,Positive,0.317,Positive,0.382,POSITIVE,0.897,neutral,0.958
+2025-04-23,VentureBeat,Positive,0.207,Neutral,0.0,POSITIVE,0.997,neutral,0.924
+2025-04-28,Github.com,Neutral,0.0,Positive,0.296,POSITIVE,0.945,neutral,0.913
+2025-04-25,Arxiv.org,Positive,0.375,Positive,0.727,POSITIVE,0.695,neutral,0.942
+2025-05-15,The Verge,Positive,0.168,Positive,0.361,POSITIVE,0.993,neutral,0.892
+2025-05-18,Github.com,Negative,-0.5,Positive,0.296,NEGATIVE,0.994,neutral,0.864
+2025-05-17,Arxiv.org,Positive,0.138,Neutral,0.0,POSITIVE,0.978,neutral,0.942
+2025-05-17,Fox News,Neutral,0.0,Positive,0.637,POSITIVE,0.999,neutral,0.854
